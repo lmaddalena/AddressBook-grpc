@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+option csharp_namespace = "AddressBookServices";
+
+package AddressBook;
+
+// Person message
+message Person {
+    string id = 1;
+    string fname = 2;
+    string lname = 3;
+    string addess = 4;    
+}

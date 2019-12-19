@@ -1,0 +1,3 @@
+obj\Debug\netcoreapp3.1/Manageaddress.cs \
+obj\Debug\netcoreapp3.1/ManageaddressGrpc.cs: Protos/person.proto\
+ Protos/manageaddress.proto

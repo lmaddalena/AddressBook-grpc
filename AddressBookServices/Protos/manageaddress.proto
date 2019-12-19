@@ -1,0 +1,44 @@
+syntax = "proto3";
+
+option csharp_namespace = "AddressBookServices";
+
+package AddressBook;
+
+import "Protos/person.proto";
+
+// service ManageAddress
+service ManageAddress {
+    rpc AddPerson (AddPersonRequest) returns (AddPersonReply);
+    rpc DelPerson (DelPersonRequest) returns (DelPersonReply);
+    rpc UpdPerson (UpdPersonRequest) returns (UpdPersonReply);
+}
+
+// message AddPerson
+message AddPersonRequest {
+    string fname = 1;
+    string lname = 2;
+    string addess = 3;    
+}
+  
+message AddPersonReply {
+    bool ack = 1;
+    string id = 2;
+}
+
+// message DelPerson
+message DelPersonRequest {
+    string id = 1;
+}
+
+message DelPersonReply {
+    bool ack = 1;
+}
+
+// message UpdPerson
+message UpdPersonRequest {
+    Person person = 1;
+}
+
+message UpdPersonReply {
+    bool ack = 1;
+}

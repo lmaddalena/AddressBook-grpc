@@ -1,0 +1,17 @@
+C:\temp\AddressBook-grpc\AddressBookClient\obj\Debug\netcoreapp3.1\AddressBookClient.csprojAssemblyReference.cache
+C:\temp\AddressBook-grpc\AddressBookClient\obj\Debug\netcoreapp3.1\AddressBookClient.AssemblyInfoInputs.cache
+C:\temp\AddressBook-grpc\AddressBookClient\obj\Debug\netcoreapp3.1\AddressBookClient.AssemblyInfo.cs
+C:\temp\AddressBook-grpc\AddressBookClient\bin\Debug\netcoreapp3.1\AddressBookClient.exe
+C:\temp\AddressBook-grpc\AddressBookClient\bin\Debug\netcoreapp3.1\AddressBookClient.deps.json
+C:\temp\AddressBook-grpc\AddressBookClient\bin\Debug\netcoreapp3.1\AddressBookClient.runtimeconfig.json
+C:\temp\AddressBook-grpc\AddressBookClient\bin\Debug\netcoreapp3.1\AddressBookClient.runtimeconfig.dev.json
+C:\temp\AddressBook-grpc\AddressBookClient\bin\Debug\netcoreapp3.1\AddressBookClient.dll
+C:\temp\AddressBook-grpc\AddressBookClient\bin\Debug\netcoreapp3.1\AddressBookClient.pdb
+C:\temp\AddressBook-grpc\AddressBookClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\temp\AddressBook-grpc\AddressBookClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\temp\AddressBook-grpc\AddressBookClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\temp\AddressBook-grpc\AddressBookClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\temp\AddressBook-grpc\AddressBookClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\temp\AddressBook-grpc\AddressBookClient\obj\Debug\netcoreapp3.1\AddressBookClient.csproj.CopyComplete
+C:\temp\AddressBook-grpc\AddressBookClient\obj\Debug\netcoreapp3.1\AddressBookClient.dll
+C:\temp\AddressBook-grpc\AddressBookClient\obj\Debug\netcoreapp3.1\AddressBookClient.pdb
